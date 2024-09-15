@@ -6,7 +6,7 @@ Bellabeat is a high-tech company founded in 2013 by Urška Sršen and Sando Mur,
 ### Objective:
 As a junior data analyst at Bellabeat, I was tasked with analyzing smart device usage data to provide insights into how consumers use non-Bellabeat smart devices. This analysis aims to help Bellabeat’s executive team better understand trends in smart device usage and apply those insights to one of Bellabeat’s products, influencing future marketing strategies. The analysis will focus on identifying trends in /consumer habits from the Fitbit Tracker Dataset and presenting actionable recommendations.
 
-## Skills Used in Excel
+### Skills Used in Excel
 - Formating
 - Conditional Formating
 - Data Cleaning
@@ -16,7 +16,7 @@ As a junior data analyst at Bellabeat, I was tasked with analyzing smart device 
 - Data Visualization - Charts and Graphs
 - Formulas (COUNTIFS, UNIQUE)
 
-## Skills Used in Sql Server
+### Skills Used in Sql Server
 - Importing Flat files
 - Retrieving data from a table
 - Updating data in a table
