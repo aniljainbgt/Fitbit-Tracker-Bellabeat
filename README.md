@@ -28,4 +28,4 @@ As a junior data analyst at Bellabeat, I was tasked with analyzing smart device 
 - Finding and deleting duplicate rows
 
 ## Dashboard Sample
-<img src="Images/DashImageBB.jpg">
+<img src="Images/Dashboard.png">
