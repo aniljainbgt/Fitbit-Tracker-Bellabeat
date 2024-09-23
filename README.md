@@ -31,3 +31,7 @@ As a junior data analyst at Bellabeat, I was tasked with analyzing smart device 
 
 ## Dashboard Sample
 <img src="Images/Dashboard.png">
+
+### Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/anil-jain-bgt/)
