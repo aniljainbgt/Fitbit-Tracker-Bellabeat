@@ -1,4 +1,4 @@
-# Bellabeat Fitness Tracker Data Analysis using Excel
+# Fitbit Fitness Tracker Data Analysis using Excel
 ## About this Case Study
 This case study is part of [Google Data Analytics Capstone:Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/) under [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics) course on Coursera.
 ## Introduction
